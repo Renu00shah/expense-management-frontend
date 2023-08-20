@@ -66,7 +66,7 @@ const Register = () => {
         //     </Box>
         // </>
 
-        <Box sx={{ border: "2px solid red", height: "90vh" }}>
+        <Box sx={{ height: "90vh" }}>
 
             <Box sx={styles.main}>
 
